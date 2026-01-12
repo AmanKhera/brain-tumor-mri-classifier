@@ -49,9 +49,9 @@ Stage 2 - Fine Tuning
 - EarlyStopping + ModelCheckpoint
 
 
-**📊 Evaluation
+**📊 Evaluation**
 
-The model is evaluated using:**
+**The model is evaluated using:**
 - Accuracy
 - Precision (macro)
 - Recall (macro)
